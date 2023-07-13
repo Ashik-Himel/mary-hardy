@@ -113,6 +113,7 @@ ul {
   align-items: center;
   padding: 1rem 0;
   position: relative;
+  margin-left: 0;
 }
 .header-section .logo {
   font-size: 2rem;
